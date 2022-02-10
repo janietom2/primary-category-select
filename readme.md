@@ -7,6 +7,8 @@ Primary category selector is a WordPress plugin that let select a category for a
 ## Installation
 Just upload the zip file to your WordPress instalation and activate the plugin.
 
+Zip file can be found in release page of this repository: [Releases](https://github.com/janietom2/primary-category-select/releases/tag/Release)
+
 ## Features
 Metabox on Post page to assign the primary category.
 
